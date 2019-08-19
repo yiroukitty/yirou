@@ -1,12 +1,15 @@
 # yirou's Diary
 
 ##介紹
+
 嘗試做網頁。
 
 ##成果展示
-![.](https://yiroudiary.herokuapp.com/)
+
+![](https://yiroudiary.herokuapp.com/)
 
 ##使用技術
+
 名稱    |    說明
 --------|-----------
 Python  | 使用最多的 !

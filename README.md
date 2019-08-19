@@ -20,7 +20,8 @@ Github  | 真正的佛心企業
 
 ##範例代碼
 
-ˋˋˋpython
+
+```python
 @app.route("/")
 def root():
   ds = glob.glob("articles/*")
@@ -29,5 +30,5 @@ def root():
     fs = glob.glob(d + "/*.txt")
     t = (d.split("/")[-1], len(fs))
     result.append(t)
-  return render_template("index.html",d = result)
-ˋˋˋ
+  return render_template("index.html", d = result)
+```

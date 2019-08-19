@@ -6,7 +6,7 @@
 
 ##成果展示
 
-![](https://yiroudiary.herokuapp.com/)
+![](https://github.com/yiroukitty/yirou/raw/master/demo.png)
 
 ##使用技術
 

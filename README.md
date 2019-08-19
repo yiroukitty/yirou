@@ -20,7 +20,8 @@ Github  | 真正的佛心企業
 
 ##範例代碼
 
-ˋˋˋ@app.route("/")
+ˋˋˋpython
+@app.route("/")
 def root():
   ds = glob.glob("articles/*")
   result = []

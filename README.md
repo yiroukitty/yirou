@@ -20,7 +20,6 @@ Github  | 真正的佛心企業
 
 ##範例代碼
 
-
 ```python
 @app.route("/")
 def root():
@@ -32,3 +31,7 @@ def root():
     result.append(t)
   return render_template("index.html", d = result)
 ```
+
+##網址
+
+[Click me](https://yiroudiary.herokuapp.com/)

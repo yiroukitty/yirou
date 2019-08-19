@@ -1,0 +1,20 @@
+.navbar-inverse {
+  background-color: rgba(102, 51, 153, 0.418);
+}
+
+.navbar-inverse .navbar-brand{
+  color:white;
+}.navbar-inverse .navbar-brand{
+  color:white;
+}
+
+.navbar-inverse .navbar-nav {
+  background-color: rgba(210, 180, 140, 0.425);
+
+}  background-color: rebeccapurple;
+
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
